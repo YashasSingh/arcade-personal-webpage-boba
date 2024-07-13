@@ -19,14 +19,47 @@
             max-width: 800px;
             margin: 50px auto;
         }
-
+        h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background: #e2e2e2;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 4px;
+            transition: background-color 0.3s ease;
+        }
+        ul li:hover {
+            background-color: #d0d0d0;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
         }
         a:hover {
             text-decoration: underline;
         }
     </style>
 </head>
-
+<body>
+    <div class="container">
+        <h2>Skills</h2>
+        <ul>
+            <li>Jupyter Notebook</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Python</li>
+            <li>Pandas</li>
+            <li>Scikit-learn</li>
+        </ul>
+        <p><a href="index.html">Back to Home</a></p>
     </div>
 </body>
 </html>
