@@ -3,6 +3,7 @@
 
 Welcome to my personal website! This page serves as a space where I share more about myself, my projects, and things I am passionate about.
 https://main--yashassingh.netlify.app/
+![image](https://github.com/user-attachments/assets/d77cd190-dd70-408f-9177-e0ce9f1f5616)
 
 ## Features
 
